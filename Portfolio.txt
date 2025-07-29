@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Header / Introduction -->
+  <header>
+    <img src="profile.jpg" alt="Profile Photo" class="profile-img">
+    <h1>Hello, I'm [Your Name]</h1>
+    <p>Web Developer | Designer | Learner</p>
+  </header>
+
+  <!-- Contact Information -->
+  <section class="contact">
+    <h2>Contact Me</h2>
+    <p>Email: you@example.com</p>
+    <p>Phone: +91-XXXXXXXXXX</p>
+    <p>Location: Your City, Country</p>
+  </section>
+
+  <!-- About Me -->
+  <section class="about">
+    <h2>About Me</h2>
+    <p>I am a passionate beginner web developer with a strong interest in frontend development. I enjoy building responsive and user-friendly websites.</p>
+  </section>
+
+  <!-- Skills -->
+  <section class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript (Basic)</li>
+      <li>Responsive Design</li>
+    </ul>
+  </section>
+
+  <!-- Projects -->
+  <section class="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Temperature Converter</h3>
+      <p>A simple web app that converts temperatures between Celsius and Fahrenheit.</p>
+    </div>
+    <div class="project">
+      <h3>Landing Page</h3>
+      <p>A responsive landing page created using HTML and CSS for practice.</p>
+    </div>
+  </section>
+
+  <!-- Resume -->
+  <section class="resume">
+    <h2>Resume</h2>
+    <a href="resume.pdf" target="_blank">Download My Resume (PDF)</a>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 [Your Name]. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
